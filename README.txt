@@ -1,0 +1,1 @@
+   The files in this repository take a list of decks in an undisclosed card game from the csv file "MCWinrates10_01_21.csv and prints every deck with a win rate of 50% or greater. All you need to do to run this script is type "make" in the command line and hit enter. Your terminal needs to be in the "TylerThomas3140Lab3" folder.
